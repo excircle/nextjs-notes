@@ -24,7 +24,7 @@ Next, use the variables in your code.
 
 #### React Code Usage
 
-```language
+```jsx
 export default function Home() {
   const baseUrl = process.env.NEXT_PUBLIC_API_URL;
   const randomVar = process.env.NEXT_PUBLIC_RANDOM_VAR;
