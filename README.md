@@ -6,4 +6,4 @@ This repo is dedicated to holding my notes of things that I've learned while lea
 # Table of Contents
 
 * [setting-local-env-variables](https://github.com/excircle/nextjs-notes/tree/main/setting-local-env-variables)
-
+* [using-tables-in-nextjs](https://github.com/excircle/nextjs-notes/tree/main/using-tables-in-nextjs)
