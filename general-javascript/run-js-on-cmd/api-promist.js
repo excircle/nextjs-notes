@@ -20,6 +20,7 @@ function getBooks() {
         .catch(handleError);
 }
 
+//Below is an example of handling a promise returned by a function
 getBooks().then(data => {
     console.log(data);
 });
