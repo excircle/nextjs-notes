@@ -13,3 +13,5 @@ This folder contains tidbits of information concerning Javascript
 NextJS pre-renders everything. This means that HTML is generated in advance.
 
 <b>Hydration is the process of making a rendered DOM interactive.</b>
+
+![Hydration](https://nextjs.org/static/images/learn/foundations/client-side-rendering.png)
